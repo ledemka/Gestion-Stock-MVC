@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+E:\Projet__\Gestion de stock\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2976663633.index
