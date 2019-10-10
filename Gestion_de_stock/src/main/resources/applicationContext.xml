@@ -13,8 +13,7 @@
 		class="org.springframework.jdbc.datasource.DriverManagerDataSource">
 		<property name="driverClassName"
 			value="com.mysql.jdbc.Driver"></property>
-		<property name="url"
-			value="jdbc:mysql://localhost:3306/Stock?createDatabaseIfNotExist=true"></property>
+		<property name="url" value="jdbc:mysql://localhost:3306/Gestion_Stock?createDatabaseIfNotExist=true"></property>
 		<property name="username" value="root"></property>
 		<property name="password" value=""></property>
 	</bean>
